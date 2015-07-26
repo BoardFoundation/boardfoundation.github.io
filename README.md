@@ -1,4 +1,4 @@
-Hako: boardfoundation.jp
+boardfoundation page
 ==========
 
 
